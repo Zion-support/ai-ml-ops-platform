@@ -1,13 +1,38 @@
 # AI MLOps Platform
 
-Deploy, monitor and manage ML models in production with confidence.
+> Ship models like software — versioned, tested, monitored.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+End-to-end MLOps: pipelines, model registry, deployment and monitoring in one platform. Part of the **Zion AI App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
+**Live app:** https://ziontechgroup.com/ai-ml-ops-platform/
+
+## Features
+- Reproducible training pipelines with data and code versioning
+- Central model registry with lineage and approval workflows
+- One-click deployment to batch, real-time and edge targets
+- Production monitoring: drift, latency, quality and cost per model
+- Automated retraining triggers
+- Integrations: MLflow, Kubeflow, SageMaker, Vertex AI, Azure ML
+
+## Use Cases
+- Standardize how teams ship and govern models
+- Detect model degradation before business KPIs move
+- Audit every model version end to end
+
+## Related Apps in the Zion App Network
+- [zion-llm-observatory](https://github.com/Zion-support/zion-llm-observatory)
+- [zion-ai-drift-detector](https://github.com/Zion-support/zion-ai-drift-detector) — https://ziontechgroup.com/zion-ai-drift-detector/
+- [zion-ai-model-arena](https://github.com/Zion-support/zion-ai-model-arena)
+- [ai-model-cost-calculator](https://github.com/Zion-support/ai-model-cost-calculator) — https://ziontechgroup.com/ai-model-cost-calculator/
+- [zion-synthetic-data-studio](https://github.com/Zion-support/zion-synthetic-data-studio)
+
+## Explore the Network
+- 🗂️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
+- 🌐 Homepage: https://ziontechgroup.com
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Discovery call: https://ziontechgroup.com/discovery/
 - ✉️ Contact: commercial@ziontechgroup.com
 
-Related apps: [ai-ml-pipeline](https://github.com/Zion-support/ai-ml-pipeline) · [model-observatory](https://github.com/Zion-support/model-observatory) · [ai-eval-harness](https://github.com/Zion-support/ai-eval-harness)
+---
+© 2026 Zion Tech Group
