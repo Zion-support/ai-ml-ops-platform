@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/ai-ml-ops-platform/
-- 🔗 Related: [Zion Eval Generator](https://ziontechgroup.com/zion-eval-generator/) · [RAG Evaluator](https://ziontechgroup.com/rag-evaluator/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Release Conductor](https://ziontechgroup.com/zion-ai-release-conductor/) · [RAG Evaluator](https://ziontechgroup.com/rag-evaluator/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
